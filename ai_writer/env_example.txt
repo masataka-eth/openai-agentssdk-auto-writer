@@ -1,0 +1,13 @@
+# OpenAI
+OPENAI_API_KEY=sk-xxxxx
+OPENAI_API_BASE=https://api.openai.com/v1
+
+# Gemini
+GEMINI_API_KEY=xyz-xxxxx
+
+# MySQL
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=ai_writer
+DB_PASSWORD=ai_writer_pwd
+DB_NAME=ai_writer_db 

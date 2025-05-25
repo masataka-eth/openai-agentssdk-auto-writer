@@ -1,0 +1,4 @@
+openai-agents==0.0.16
+mysql-connector-python
+python-dotenv
+requests 

@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- ルート直下にある docs > \_require.md の指示に従って開発を行なってください。
+- docs フォルダの中身は絶対に変更しないでください。
